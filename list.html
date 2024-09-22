@@ -42,6 +42,7 @@
             .then(response => response.json())
             .then(data => {
 
+
                 /*
                 This section creates the base table and finds the root json node.
                 */
@@ -57,7 +58,7 @@
                 This section selects the headers for the table
                 */
                 let headers = Object.keys(data[root][0]);
-                headers.forEach(header => {
+                headers.forEach(header => {"Cafe", "Neighborhood", "Borough", "Favorite Type of Drink"
                     var th = document.createElement("th");      
                     th.innerHTML = header;
                     tr.appendChild(th);
