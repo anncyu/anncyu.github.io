@@ -1,0 +1,46 @@
+{
+    "New York City Cafes": [
+        {
+            "Cafe": "Kijitora",
+            "Neighborhood": "Williamsburg",
+            "Borough": "Brooklyn",
+            "Favorite Type of Drink": "Matcha"
+        },
+        {
+            "Cafe": "Abraco",
+            "Neighborhood": "East Village",
+            "Borough": "Manhattan",
+            "Favorite Type of Drink": "Latte"
+        },
+        {
+            "Cafe": "PPL",
+            "Neighborhood": "Williamsburg",
+            "Borough": "Brooklyn",
+            "Favorite Type of Drink": "Matcha"
+        },
+        {
+            "Cafe": "Qahwah House",
+            "Neighborhood": "West Village",
+            "Borough": "Manhattan",
+            "Favorite Type of Drink": "Chai"
+        },
+        {
+            "Cafe": "Not As Bitter",
+            "Neighborhood": "East Village",
+            "Borough": "Manhattan",
+            "Favorite Type of Drink": "Matcha"
+        },
+        {
+            "Cafe": "C&B",
+            "Neighborhood": "Alphabet City",
+            "Borough": "Manhattan",
+            "Favorite Type of Drink": "Cappucino"
+        },
+        {
+            "Cafe": "Round K by Sol",
+            "Neighborhood": "Chinatown",
+            "Borough": "Manhattan",
+            "Favorite Type of Drink": "Matcha"
+        }
+    ]
+}
